@@ -10,7 +10,7 @@ Click [here](https://p5live.org/?code=bGV0IE1BSU5fTUVTU0FHRSA9ICJJdCdzIGFib3V0IH
 #### 1080x1080
 ![TCM2-1-1-1080](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM2-1-1/TCM2-1-1-1080px.png?raw=true)
 ### Text Only
-####1440x1440
+#### 1440x1440
 ![TCM2-1-1-Only-Text-1440](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM2-1-1/TCM2-1-1-Only-Text-1440px.png?raw=true)
 
 ## 9:16 (1080x1920)
