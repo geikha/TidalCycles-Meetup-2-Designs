@@ -8,22 +8,22 @@ Check out [P5LIVE](https://github.com/ffd8/P5LIVE) by @ffd8 !
 
 ## 1:1
 #### 1440x1440
-![TCM2-1-1-1440](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM2-1-1/TCM2-1-1-1440px.png?raw=true)
+![TCM2-1-1-1440](https://github.com/geikha/TidalCycles-Meetup-2-Designs/blob/main/TCM2-1-1/TCM2-1-1-1440px.png?raw=true)
 #### 1080x1080
-![TCM2-1-1-1080](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM2-1-1/TCM2-1-1-1080px.png?raw=true)
+![TCM2-1-1-1080](https://github.com/geikha/TidalCycles-Meetup-2-Designs/blob/main/TCM2-1-1/TCM2-1-1-1080px.png?raw=true)
 ### Text Only
 #### 1440x1440
-![TCM2-1-1-Only-Text-1440](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM2-1-1/TCM2-1-1-Only-Text-1440px.png?raw=true)
+![TCM2-1-1-Only-Text-1440](https://github.com/geikha/TidalCycles-Meetup-2-Designs/blob/main/TCM2-1-1/TCM2-1-1-Only-Text-1440px.png?raw=true)
 
 ## 9:16 (1080x1920)
 
 #### Original
-![TCM2-9-16](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM2-9-16/TCM2-9-16.png?raw=true)
+![TCM2-9-16](https://github.com/geikha/TidalCycles-Meetup-2-Designs/blob/main/TCM2-9-16/TCM2-9-16.png?raw=true)
 #### No Tidal Logo
-![TCM2-9-16-No-Logo](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM2-9-16/TCM2-9-16-No-Logo.png?raw=true)
+![TCM2-9-16-No-Logo](https://github.com/geikha/TidalCycles-Meetup-2-Designs/blob/main/TCM2-9-16/TCM2-9-16-No-Logo.png?raw=true)
 #### Text Only
-![TCM2-9-16-Only-Text](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM2-9-16/TCM2-9-16-Only-Text.png?raw=true)
+![TCM2-9-16-Only-Text](https://github.com/geikha/TidalCycles-Meetup-2-Designs/blob/main/TCM2-9-16/TCM2-9-16-Only-Text.png?raw=true)
 
 ## 16:9 (1920x1080)
 
-![TCM2-16-9](https://github.com/ritchse/TidalCycles-Meetup-2-Designs/blob/main/TCM-2-16-9/TCM2-16-9.png?raw=true)
+![TCM2-16-9](https://github.com/geikha/TidalCycles-Meetup-2-Designs/blob/main/TCM-2-16-9/TCM2-16-9.png?raw=true)
